@@ -1,0 +1,15 @@
+{
+  "name": "dockerhub-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "docker-hub-api": "^0.5.1"
+  }
+}
